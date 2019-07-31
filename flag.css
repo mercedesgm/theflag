@@ -1,0 +1,14 @@
+#stars {
+    position: absolute;
+    background-color: blue;
+    padding: 0.3%;
+}
+
+.stripe {
+    height: 4.85vh;
+    width: 70vw;
+}
+
+.stripe:nth-child(odd) {
+    background-color: red;
+}
